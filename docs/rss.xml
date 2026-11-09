@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RadiantPEXIndex Hydronic Radiant Floor Heating Database</title>
+    <link>https://hanifsalman11.github.io/radiant-pex-index/</link>
+    <description>Interactive Radiant Floor PEX Loop Length, Manifold Circuit & Circulator Pump GPM Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/radiant-pex-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>40x60 Commercial Shop Slab (2,400 Sq Ft) 5/8" Radiant PEX PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/radiant-pex-index/40x60-commercial-shop-slab-2400-sq-ft-58-radiant-pex-pex-loop-manifold-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/radiant-pex-index/40x60-commercial-shop-slab-2400-sq-ft-58-radiant-pex-pex-loop-manifold-calculator.html</guid>
+      <description>Calculate exact radiant PEX tubing length (2,540 linear ft), manifold circuits (7 loops @ 363 ft ea), heat load (72,000 BTU/hr), and circulator pump (9.6 GPM @ 17.3 ft head) for 40x60 Commercial Shop Slab (2,400 Sq Ft) 5/8" Radiant PEX.</description>
+    </item>
+    <item>
+      <title>30x40 Pole Barn & Shop Slab (1,200 Sq Ft) Radiant PEX Setup PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/radiant-pex-index/30x40-pole-barn-shop-slab-1200-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/radiant-pex-index/30x40-pole-barn-shop-slab-1200-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator.html</guid>
+      <description>Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for 30x40 Pole Barn & Shop Slab (1,200 Sq Ft) Radiant PEX Setup.</description>
+    </item>
+    <item>
+      <title>24x24 Two-Car Garage Slab (576 Sq Ft) Radiant PEX Setup PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/radiant-pex-index/24x24-two-car-garage-slab-576-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/radiant-pex-index/24x24-two-car-garage-slab-576-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator.html</guid>
+      <description>Calculate exact radiant PEX tubing length (640 linear ft), manifold circuits (3 loops @ 213 ft ea), heat load (17,300 BTU/hr), and circulator pump (2.3 GPM @ 11.6 ft head) for 24x24 Two-Car Garage Slab (576 Sq Ft) Radiant PEX Setup.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "project_name": "24x24 Two-Car Garage Slab (576 Sq Ft) Radiant PEX Setup",
+    "slug": "24x24-two-car-garage-slab-576-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator",
+    "title": "24x24 Two-Car Garage Slab (576 Sq Ft) Radiant PEX Setup PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (640 linear ft), manifold circuits (3 loops @ 213 ft ea), heat load (17,300 BTU/hr), and circulator pump (2.3 GPM @ 11.6 ft head) for 24x24 Two-Car Garage Slab (576 Sq Ft) Radiant PEX Setup.",
+    "pex_ft": 640,
+    "loops": 3,
+    "btu": 17300,
+    "gpm": 2.3,
+    "date": "2026-11-09"
+  },
+  {
+    "project_name": "30x40 Pole Barn & Shop Slab (1,200 Sq Ft) Radiant PEX Setup",
+    "slug": "30x40-pole-barn-shop-slab-1200-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator",
+    "title": "30x40 Pole Barn & Shop Slab (1,200 Sq Ft) Radiant PEX Setup PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for 30x40 Pole Barn & Shop Slab (1,200 Sq Ft) Radiant PEX Setup.",
+    "pex_ft": 1300,
+    "loops": 5,
+    "btu": 36000,
+    "gpm": 4.8,
+    "date": "2026-11-09"
+  },
+  {
+    "project_name": "40x60 Commercial Shop Slab (2,400 Sq Ft) 5/8\" Radiant PEX",
+    "slug": "40x60-commercial-shop-slab-2400-sq-ft-58-radiant-pex-pex-loop-manifold-calculator",
+    "title": "40x60 Commercial Shop Slab (2,400 Sq Ft) 5/8\" Radiant PEX PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (2,540 linear ft), manifold circuits (7 loops @ 363 ft ea), heat load (72,000 BTU/hr), and circulator pump (9.6 GPM @ 17.3 ft head) for 40x60 Commercial Shop Slab (2,400 Sq Ft) 5/8\" Radiant PEX.",
+    "pex_ft": 2540,
+    "loops": 7,
+    "btu": 72000,
+    "gpm": 9.6,
+    "date": "2026-11-09"
+  }
+]
