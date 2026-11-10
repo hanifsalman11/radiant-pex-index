@@ -97,5 +97,38 @@
     "btu": 45000,
     "gpm": 6.0,
     "date": "2026-11-10"
+  },
+  {
+    "project_name": "Grundfos UPS15-58FC 3-Speed Cast-Iron Hydronic Circulator",
+    "slug": "grundfos-ups15-58fc-3-speed-cast-iron-hydronic-circulator-pex-loop-manifold-calculator",
+    "title": "Grundfos UPS15-58FC 3-Speed Cast-Iron Hydronic Circulator PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for Grundfos UPS15-58FC 3-Speed Cast-Iron Hydronic Circulator.",
+    "pex_ft": 1300,
+    "loops": 5,
+    "btu": 36000,
+    "gpm": 4.8,
+    "date": "2026-11-10"
+  },
+  {
+    "project_name": "Uponor / Wirsbo hePEX 1/2-Inch Oxygen-Barrier Radiant Loop",
+    "slug": "uponor-wirsbo-hepex-12-inch-oxygen-barrier-radiant-loop-pex-loop-manifold-calculator",
+    "title": "Uponor / Wirsbo hePEX 1/2-Inch Oxygen-Barrier Radiant Loop PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (25,200 BTU/hr), and circulator pump (3.4 GPM @ 13.4 ft head) for Uponor / Wirsbo hePEX 1/2-Inch Oxygen-Barrier Radiant Loop.",
+    "pex_ft": 1300,
+    "loops": 5,
+    "btu": 25200,
+    "gpm": 3.4,
+    "date": "2026-11-10"
+  },
+  {
+    "project_name": "Uponor EP & Stainless 6-Loop Hydronic Radiant Manifold",
+    "slug": "uponor-ep-stainless-6-loop-hydronic-radiant-manifold-pex-loop-manifold-calculator",
+    "title": "Uponor EP & Stainless 6-Loop Hydronic Radiant Manifold PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for Uponor EP & Stainless 6-Loop Hydronic Radiant Manifold.",
+    "pex_ft": 1300,
+    "loops": 5,
+    "btu": 36000,
+    "gpm": 4.8,
+    "date": "2026-11-10"
   }
 ]
