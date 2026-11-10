@@ -130,5 +130,38 @@
     "btu": 36000,
     "gpm": 4.8,
     "date": "2026-11-10"
+  },
+  {
+    "project_name": "Watts Radiant / Viega 8-Loop Stainless Flow-Meter Manifold",
+    "slug": "watts-radiant-viega-8-loop-stainless-flow-meter-manifold-pex-loop-manifold-calculator",
+    "title": "Watts Radiant / Viega 8-Loop Stainless Flow-Meter Manifold PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,740 linear ft), manifold circuits (7 loops @ 249 ft ea), heat load (48,000 BTU/hr), and circulator pump (6.4 GPM @ 13.0 ft head) for Watts Radiant / Viega 8-Loop Stainless Flow-Meter Manifold.",
+    "pex_ft": 1740,
+    "loops": 7,
+    "btu": 48000,
+    "gpm": 6.4,
+    "date": "2026-11-10"
+  },
+  {
+    "project_name": "Caleffi 521 MixCal 3-Way Thermostatic Radiant Mixing Valve",
+    "slug": "caleffi-521-mixcal-3-way-thermostatic-radiant-mixing-valve-pex-loop-manifold-calculator",
+    "title": "Caleffi 521 MixCal 3-Way Thermostatic Radiant Mixing Valve PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for Caleffi 521 MixCal 3-Way Thermostatic Radiant Mixing Valve.",
+    "pex_ft": 1300,
+    "loops": 5,
+    "btu": 36000,
+    "gpm": 4.8,
+    "date": "2026-11-10"
+  },
+  {
+    "project_name": "Schluter Ditra-Heat Electric Tile Floor Heating (100 Sq Ft)",
+    "slug": "schluter-ditra-heat-electric-tile-floor-heating-100-sq-ft-pex-loop-manifold-calculator",
+    "title": "Schluter Ditra-Heat Electric Tile Floor Heating (100 Sq Ft) PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (460 linear ft), manifold circuits (3 loops @ 153 ft ea), heat load (1,500 BTU/hr), and circulator pump (1.0 GPM @ 9.3 ft head) for Schluter Ditra-Heat Electric Tile Floor Heating (100 Sq Ft).",
+    "pex_ft": 460,
+    "loops": 3,
+    "btu": 1500,
+    "gpm": 1.0,
+    "date": "2026-11-10"
   }
 ]
