@@ -163,5 +163,38 @@
     "btu": 1500,
     "gpm": 1.0,
     "date": "2026-11-10"
+  },
+  {
+    "project_name": "Schluter Ditra-Heat Master Bathroom Floor (60 Sq Ft 120V)",
+    "slug": "schluter-ditra-heat-master-bathroom-floor-60-sq-ft-120v-pex-loop-manifold-calculator",
+    "title": "Schluter Ditra-Heat Master Bathroom Floor (60 Sq Ft 120V) PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (300 linear ft), manifold circuits (3 loops @ 100 ft ea), heat load (900 BTU/hr), and circulator pump (1.0 GPM @ 7.3 ft head) for Schluter Ditra-Heat Master Bathroom Floor (60 Sq Ft 120V).",
+    "pex_ft": 300,
+    "loops": 3,
+    "btu": 900,
+    "gpm": 1.0,
+    "date": "2026-11-11"
+  },
+  {
+    "project_name": "SunTouch TapeMat Electric Underfloor Heating (120 Sq Ft)",
+    "slug": "suntouch-tapemat-electric-underfloor-heating-120-sq-ft-pex-loop-manifold-calculator",
+    "title": "SunTouch TapeMat Electric Underfloor Heating (120 Sq Ft) PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (560 linear ft), manifold circuits (4 loops @ 140 ft ea), heat load (1,400 BTU/hr), and circulator pump (1.0 GPM @ 8.8 ft head) for SunTouch TapeMat Electric Underfloor Heating (120 Sq Ft).",
+    "pex_ft": 560,
+    "loops": 4,
+    "btu": 1400,
+    "gpm": 1.0,
+    "date": "2026-11-11"
+  },
+  {
+    "project_name": "WarmlyYours TempZone Electric Radiant Bathroom Floor (80 Sq Ft)",
+    "slug": "warmlyyours-tempzone-electric-radiant-bathroom-floor-80-sq-ft-pex-loop-manifold-calculator",
+    "title": "WarmlyYours TempZone Electric Radiant Bathroom Floor (80 Sq Ft) PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (380 linear ft), manifold circuits (3 loops @ 127 ft ea), heat load (1,200 BTU/hr), and circulator pump (1.0 GPM @ 8.3 ft head) for WarmlyYours TempZone Electric Radiant Bathroom Floor (80 Sq Ft).",
+    "pex_ft": 380,
+    "loops": 3,
+    "btu": 1200,
+    "gpm": 1.0,
+    "date": "2026-11-11"
   }
 ]
