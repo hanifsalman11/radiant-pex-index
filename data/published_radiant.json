@@ -196,5 +196,38 @@
     "btu": 1200,
     "gpm": 1.0,
     "date": "2026-11-11"
+  },
+  {
+    "project_name": "500 Sq Ft Driveway & Sidewalk Snow-Melt Hydronic PEX Setup",
+    "slug": "500-sq-ft-driveway-sidewalk-snow-melt-hydronic-pex-setup-pex-loop-manifold-calculator",
+    "title": "500 Sq Ft Driveway & Sidewalk Snow-Melt Hydronic PEX Setup PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,100 linear ft), manifold circuits (5 loops @ 220 ft ea), heat load (60,000 BTU/hr), and circulator pump (8.0 GPM @ 11.9 ft head) for 500 Sq Ft Driveway & Sidewalk Snow-Melt Hydronic PEX Setup.",
+    "pex_ft": 1100,
+    "loops": 5,
+    "btu": 60000,
+    "gpm": 8.0,
+    "date": "2026-11-11"
+  },
+  {
+    "project_name": "800 Sq Ft Concrete Patio & Apron Snow-Melt Glycol PEX Setup",
+    "slug": "800-sq-ft-concrete-patio-apron-snow-melt-glycol-pex-setup-pex-loop-manifold-calculator",
+    "title": "800 Sq Ft Concrete Patio & Apron Snow-Melt Glycol PEX Setup PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,760 linear ft), manifold circuits (8 loops @ 220 ft ea), heat load (96,000 BTU/hr), and circulator pump (12.8 GPM @ 11.9 ft head) for 800 Sq Ft Concrete Patio & Apron Snow-Melt Glycol PEX Setup.",
+    "pex_ft": 1760,
+    "loops": 8,
+    "btu": 96000,
+    "gpm": 12.8,
+    "date": "2026-11-11"
+  },
+  {
+    "project_name": "1/2-Inch vs 5/8-Inch vs 3/4-Inch Radiant PEX Loop Length",
+    "slug": "12-inch-vs-58-inch-vs-34-inch-radiant-pex-loop-length-pex-loop-manifold-calculator",
+    "title": "1/2-Inch vs 5/8-Inch vs 3/4-Inch Radiant PEX Loop Length PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for 1/2-Inch vs 5/8-Inch vs 3/4-Inch Radiant PEX Loop Length.",
+    "pex_ft": 1300,
+    "loops": 5,
+    "btu": 36000,
+    "gpm": 4.8,
+    "date": "2026-11-11"
   }
 ]
