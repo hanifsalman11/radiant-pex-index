@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/radiant-pex-index/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,6 +129,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/radiant-pex-index/12-inch-vs-58-inch-vs-34-inch-radiant-pex-loop-length-pex-loop-manifold-calculator.html</loc>
     <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/radiant-pex-index/6-inch-vs-9-inch-vs-12-inch-on-center-pex-spacing-comparison-pex-loop-manifold-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/radiant-pex-index/4-loop-stainless-hydronic-manifold-800-sq-ft-garage-slab-pex-loop-manifold-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/radiant-pex-index/6-loop-stainless-hydronic-manifold-1200-sq-ft-shop-slab-pex-loop-manifold-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
