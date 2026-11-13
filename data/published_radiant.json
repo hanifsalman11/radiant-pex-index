@@ -295,5 +295,38 @@
     "btu": 25200,
     "gpm": 3.4,
     "date": "2026-11-12"
+  },
+  {
+    "project_name": "40% Propylene Glycol Antifreeze Volume in 1/2\" Radiant PEX",
+    "slug": "40-propylene-glycol-antifreeze-volume-in-12-radiant-pex-pex-loop-manifold-calculator",
+    "title": "40% Propylene Glycol Antifreeze Volume in 1/2\" Radiant PEX PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for 40% Propylene Glycol Antifreeze Volume in 1/2\" Radiant PEX.",
+    "pex_ft": 1300,
+    "loops": 5,
+    "btu": 36000,
+    "gpm": 4.8,
+    "date": "2026-11-13"
+  },
+  {
+    "project_name": "2-Inch XPS Rigid Foam Under-Slab Insulation & PEX Stapler",
+    "slug": "2-inch-xps-rigid-foam-under-slab-insulation-pex-stapler-pex-loop-manifold-calculator",
+    "title": "2-Inch XPS Rigid Foam Under-Slab Insulation & PEX Stapler PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (25,000 BTU/hr), and circulator pump (3.3 GPM @ 13.8 ft head) for 2-Inch XPS Rigid Foam Under-Slab Insulation & PEX Stapler.",
+    "pex_ft": 1080,
+    "loops": 4,
+    "btu": 25000,
+    "gpm": 3.3,
+    "date": "2026-11-13"
+  },
+  {
+    "project_name": "Spirovent Microbubble Air Eliminator & Hydronic Expansion Tank",
+    "slug": "spirovent-microbubble-air-eliminator-hydronic-expansion-tank-pex-loop-manifold-calculator",
+    "title": "Spirovent Microbubble Air Eliminator & Hydronic Expansion Tank PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,520 linear ft), manifold circuits (6 loops @ 253 ft ea), heat load (42,000 BTU/hr), and circulator pump (5.6 GPM @ 13.1 ft head) for Spirovent Microbubble Air Eliminator & Hydronic Expansion Tank.",
+    "pex_ft": 1520,
+    "loops": 6,
+    "btu": 42000,
+    "gpm": 5.6,
+    "date": "2026-11-13"
   }
 ]
