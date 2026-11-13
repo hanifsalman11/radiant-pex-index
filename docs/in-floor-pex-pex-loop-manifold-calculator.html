@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>In Floor Pex PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+  <meta name="description" content="Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for In Floor Pex.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/radiant-pex-index/in-floor-pex-pex-loop-manifold-calculator.html">
+  <meta property="og:title" content="In Floor Pex PEX Loop, Manifold & Pump GPM Calculator (2026)">
+  <meta property="og:description" content="Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for In Floor Pex.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://hanifsalman11.github.io/radiant-pex-index/in-floor-pex-pex-loop-manifold-calculator.html">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "SoftwareApplication", "name": "In Floor Pex PEX Loop & Manifold Calculator", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Web Browser", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How many feet of PEX and how many manifold loops do I need for In Floor Pex?", "acceptedAnswer": {"@type": "Answer", "text": "At 12-inch on-center spacing (1.00 linear feet per sq. ft.), 1,000 sq. ft. requires 1,000 ft of floor grid plus 80 ft of manifold supply/return tails = 1,080 total linear feet, divided into 4 manifold loops of ~270 feet each."}}, {"@type": "Question", "name": "What size circulator pump GPM and head do I need for 1,000 sq ft of radiant heat?", "acceptedAnswer": {"@type": "Answer", "text": "Using the hydronic heat-transfer formula ($\\text{GPM} = \\text{BTU/hr} \\div [500 \\times \\Delta T]$), delivering 30,000 BTU/hr across a 15\u00b0F temperature drop requires 4.0 GPM against ~13.8 feet of head pressure (a single Loop loses head in parallel, not multiplied by all 4 loops)."}}, {"@type": "Question", "name": "How many gallons of water or glycol does 1,080 feet of 1/2-inch PEX hold?", "acceptedAnswer": {"@type": "Answer", "text": "Standard 1/2-inch PEX holds 0.92 gallons per 100 linear feet (5/8-inch PEX holds 1.34 gal/100 ft). Your 1,080 feet of tubing holds ~9.9 gallons, plus ~2.5 gallons for the boiler/header and expansion tank."}}]}]}</script>
+</head>
+<body class="bg-slate-950 text-slate-100 antialiased min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-30">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <a href="index.html" class="text-lg font-black tracking-tight text-white flex items-center gap-2">
+        <span class="bg-orange-500 text-slate-950 px-2 py-0.5 rounded font-black">RADIANT</span>PEXIndex
+      </a>
+      <a href="https://www.amazon.com/s?k=Oxygen%2BBarrier%2BPEX%2BTubing%2BRadiant%2BFloor%2BHeating%2BStainless%2BManifold%2BTaco%2BPump&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-orange-500 hover:bg-orange-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Radiant PEX, Manifolds & Floor Heating Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-10 flex-1 w-full">
+    <div class="mb-8">
+      <div class="flex flex-wrap items-center gap-2.5 mb-3">
+        <span class="text-xs font-extrabold uppercase tracking-widest bg-orange-500 text-slate-950 px-3 py-1 rounded-full">1,080 ft PEX (4 Loops)</span>
+        <span class="text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-3 py-1 rounded-full">30,000 BTU/hr | 4.0 GPM Pump</span>
+        <span class="text-xs font-semibold bg-slate-800 text-slate-300 px-3 py-1 rounded-full">12" Spacing | Fluid: ~9.9 Gal</span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-black text-white leading-tight">In Floor Pex PEX Loop, Manifold & Pump GPM Calculator (2026)</h1>
+      <div class="mt-4 bg-slate-900 border-l-4 border-orange-500 p-4 rounded-r-xl text-sm text-slate-200 leading-relaxed">
+        <strong>RPA Hydronic Loop & Circulator Verdict:</strong> Heating 1,000 sq. ft. (In Floor Pex) at 12-inch on-center spacing requires 1,080 linear feet of 1/2-Inch O2 PEX (including manifold supply/return leaders), divided into 4 balanced circuits of ~270 feet each so no single loop exceeds the 280-foot friction limit. Delivering 30,000 BTU/hr across a 15°F design temperature drop ($\Delta T$) requires a hydronic circulator pump rated for 4.0 GPM against 13.8 feet of head pressure, holding ~9.9 gallons of water/propylene-glycol fluid inside the loops.
+      </div>
+    </div>
+
+    <!-- INTERACTIVE RADIANT PEX LENGTH, MANIFOLD LOOP & CIRCULATOR PUMP GPM CALCULATOR -->
+    <section class="bg-slate-900 border border-slate-800 rounded-2xl p-6 sm:p-8 mb-12 shadow-2xl">
+      <h2 class="text-xl font-extrabold text-white mb-2">Interactive In Floor Pex PEX, Manifold & Pump Calculator</h2>
+      <p class="text-xs text-slate-400 mb-6">Adjust your heated slab/floor square footage, PEX on-center spacing, tubing diameter, and heat load factor to compute exact linear feet of O2-barrier PEX, manifold branch count, and circulator pump GPM.</p>
+
+      <div class="grid md:grid-cols-2 gap-8 items-center">
+        <div class="space-y-5">
+          <div>
+            <div class="flex justify-between text-sm font-medium mb-1.5">
+              <label for="areaSlider" class="text-slate-300">Heated Slab or Subfloor Area (Sq Ft)</label>
+              <span class="text-orange-400 font-bold"><span id="areaVal">1,000</span> sq ft</span>
+            </div>
+            <input id="areaSlider" type="range" min="100" max="3600" step="50" value="1000" class="w-full accent-orange-500 cursor-pointer">
+          </div>
+
+          <div class="grid grid-cols-2 gap-3">
+            <div>
+              <label for="spaceSelect" class="block text-xs font-medium text-slate-400 mb-1">PEX On-Center Spacing</label>
+              <select id="spaceSelect" class="w-full bg-slate-950 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-orange-500">
+                <option value="6" >6" OC (2.0 ft/ft² — Snow Melt / Bath)</option>
+                <option value="8" >8" OC (1.5 ft/ft² — Joist Plates)</option>
+                <option value="9" >9" OC (1.33 ft/ft² — House Slab)</option>
+                <option value="12" selected>12" OC (1.0 ft/ft² — Garage / Shop)</option>
+              </select>
+            </div>
+            <div>
+              <label for="pipeSelect" class="block text-xs font-medium text-slate-400 mb-1">PEX Pipe Size & Max Loop</label>
+              <select id="pipeSelect" class="w-full bg-slate-950 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-orange-500">
+                <option value="200|0.53">3/8" O2 PEX (Max 200 ft/loop)</option>
+                <option value="280|0.92" selected>1/2" O2 PEX (Max 280 ft/loop)</option>
+                <option value="380|1.34">5/8" O2 PEX (Max 380 ft/loop)</option>
+              </select>
+            </div>
+          </div>
+
+          <div>
+            <div class="flex justify-between text-sm font-medium mb-1.5">
+              <label for="btuSlider" class="text-slate-300">Design Heat Loss Factor (BTU/hr per Sq Ft)</label>
+              <span class="text-orange-400 font-bold"><span id="btuFactorVal">30</span> BTU/ft²</span>
+            </div>
+            <input id="btuSlider" type="range" min="15" max="60" step="5" value="30" class="w-full accent-orange-500 cursor-pointer">
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4">
+          <div class="bg-slate-950 border border-orange-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-orange-400 font-bold">Total PEX & Manifold</span>
+            <div class="text-xl sm:text-2xl font-black text-white mt-1"><span id="pexFtOut">1,080</span> <span class="text-xs font-normal text-slate-400">ft</span></div>
+            <p id="loopOut" class="text-xs text-orange-400 font-semibold mt-1">4-Loop Manifold (~270 ft/ea)</p>
+          </div>
+
+          <div class="bg-slate-950 border border-emerald-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-emerald-400 font-bold">BTU & Circulator Pump</span>
+            <div class="text-xl sm:text-2xl font-black text-emerald-400 mt-1"><span id="gpmOut">4.0</span> <span class="text-xs font-normal text-slate-400">GPM</span></div>
+            <p id="btuGalOut" class="text-xs text-slate-300 font-semibold mt-1">30k BTU/hr (~9.9 Gal Fluid)</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-6 bg-orange-950/40 border border-orange-500/30 rounded-xl p-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div id="radAdviceBanner" class="text-sm text-orange-100 font-medium"></div>
+        <a id="dynamicRadBtn" href="https://www.amazon.com/s?k=Oxygen%2BBarrier%2BPEX%2BTubing%2BRadiant%2BFloor%2BHeating%2BStainless%2BManifold%2BTaco%2BPump&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="shrink-0 bg-orange-500 hover:bg-orange-400 text-slate-950 font-extrabold px-4 py-2.5 rounded-lg text-xs uppercase tracking-wider transition">
+          Shop Matched PEX, Manifold & Pump on Amazon →
+        </a>
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">Complete In Floor Pex PEX, Manifold & Circulator Kit</h2>
+        <span class="text-xs text-slate-400">DIN-4726 Oxygen-Barrier & NSF-pw Rated</span>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">1,080 ft 1/2-Inch PEX</span>
+              <span class="text-sm font-bold text-emerald-400">$159 - $649</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">1,100 ft DIN-4726 Oxygen-Barrier Radiant Heating PEX Tubing Coil</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">🔥 EVOH oxygen-diffusion barrier prevents dissolved oxygen from corroding cast-iron boilers, heat exchangers, and air vents.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=1%2F2+Inch+Oxygen+Barrier+PEX+Tubing+Radiant+Floor+Heating+500ft+1000ft&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">4-Loop Stainless Manifold</span>
+              <span class="text-sm font-bold text-emerald-400">$129 - $389</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">4-Branch Stainless Steel Hydronic Radiant Manifold Set with Visual GPM Flow Meters</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">🔥 Balances all 4 circuits (~1.0 GPM per loop) and includes automatic air bleeder and drain valves.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=4+Loop+Branch+Stainless+Steel+Radiant+Floor+Heating+Manifold+PEX&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">4.0 GPM ECM Circulator</span>
+              <span class="text-sm font-bold text-emerald-400">$145 - $349</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">Variable-Speed ECM Hydronic Circulator Pump (Taco 007e / Grundfos ALPHA2) + Isolator Flanges</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">🔥 Automatically adjusts impeller torque to maintain 4.0 GPM at 13.8 ft head while using 85% less watts than old 3-speed pumps.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=Taco+007e+Grundfos+Alpha2+Hydronic+Circulator+Pump+Flanges&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">Foam Stapler & Uncoiler</span>
+              <span class="text-sm font-bold text-emerald-400">$119 - $279</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">Stand-Up PEX Foamboard Stapler Gun + 1,650 1-1/2" Barbed Staples & Heavy-Duty PEX Decoiler</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">🔥 Anchors 1/2" or 5/8" PEX directly to 2-inch XPS rigid foam insulation in 1/4 the time without kinking the coil.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=Stand+Up+PEX+Foamboard+Stapler+Gun+Staples+Radiant+Floor+Heating&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div></div>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-4">Heated Slab Area, 1/2" PEX Linear Feet, Manifold Loops & Pump GPM Chart (12" OC)</h2>
+      <div class="overflow-x-auto bg-slate-900 border border-slate-800 rounded-xl">
+        <table class="w-full text-left border-collapse text-sm">
+          <thead>
+            <tr class="border-b border-slate-800 bg-slate-950/60 text-slate-400 uppercase text-xs">
+              <th class="py-3.5 px-4">Slab Floor Area</th>
+              <th class="py-3.5 px-4 text-orange-400">Total O2-Barrier PEX</th>
+              <th class="py-3.5 px-4 text-emerald-400">Stainless Manifold Size</th>
+              <th class="py-3.5 px-4">Thermal Output</th>
+              <th class="py-3.5 px-4">Circulator Flow (@15°F ΔT)</th>
+            </tr>
+          </thead>
+          <tbody>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">500 Sq Ft (20x25 Garage)</td>
+          <td class="py-3 px-4 font-bold text-orange-400">560 ft (1/2" O2 PEX)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">2-Loop Manifold (~280 ft/ea)</td>
+          <td class="py-3 px-4 text-slate-300">15,000 BTU/hr</td>
+          <td class="py-3 px-4 text-xs text-slate-300">2.0 GPM Circulator</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">800 Sq Ft (24x34 Shop)</td>
+          <td class="py-3 px-4 font-bold text-orange-400">880 ft (1/2" O2 PEX)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">3-Loop Manifold (~290 ft/ea)</td>
+          <td class="py-3 px-4 text-slate-300">24,000 BTU/hr</td>
+          <td class="py-3 px-4 text-xs text-slate-300">3.2 GPM Circulator</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">1,200 Sq Ft (30x40 Barn)</td>
+          <td class="py-3 px-4 font-bold text-orange-400">1,300 ft (1/2" O2 PEX)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">5-Loop Manifold (~260 ft/ea)</td>
+          <td class="py-3 px-4 text-slate-300">36,000 BTU/hr</td>
+          <td class="py-3 px-4 text-xs text-slate-300">4.8 GPM Circulator</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">1,800 Sq Ft (36x50 Shop)</td>
+          <td class="py-3 px-4 font-bold text-orange-400">1,940 ft (1/2" O2 PEX)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">7-Loop Manifold (~277 ft/ea)</td>
+          <td class="py-3 px-4 text-slate-300">54,000 BTU/hr</td>
+          <td class="py-3 px-4 text-xs text-slate-300">7.2 GPM Circulator</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">2,400 Sq Ft (40x60 Building)</td>
+          <td class="py-3 px-4 font-bold text-orange-400">2,580 ft (1/2" or 5/8" PEX)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">9-Loop Manifold (~286 ft/ea)</td>
+          <td class="py-3 px-4 text-slate-300">72,000 BTU/hr</td>
+          <td class="py-3 px-4 text-xs text-slate-300">9.6 GPM Circulator</td>
+        </tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">RPA Slab Insulation, Loop Balancing & Pressure Test Checklist</h2>
+        <span id="radBadge" class="text-xs font-bold bg-slate-800 text-orange-400 px-3 py-1 rounded-full">0 / 4 Completed</span>
+      </div>
+      <div class="space-y-3">
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer rad-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>RPA Step 1:</strong> Lay 2-Inch High-Density XPS Rigid Foam Insulation (R-10 minimum, 25 PSI compressive strength) under the entire concrete slab AND vertically along the perimeter stem wall; pouring heated concrete directly on bare earth loses 45%+ of your BTU output downward.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer rad-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>RPA Step 2:</strong> Never exceed 300 feet on a single 1/2-inch PEX loop (or 400 feet on 5/8-inch PEX): split 1,080 linear feet into 4 equal loops (~270 ft each) so all circuits balance effortlessly on the manifold flow meters.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer rad-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>RPA Step 3:</strong> Pressurize the completed PEX manifold assembly to 60–100 PSI with air (or water) and leave the pressure gauge attached during the entire concrete pour so any rebar/trowel puncture is detected immediately.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer rad-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>RPA Step 4:</strong> Install a 3-Way Thermostatic Mixing Valve between your heat source and manifold to temper slab supply water to 105°F–120°F; sending raw 160°F+ boiler water directly into a concrete slab causes thermal expansion cracking.</span>
+        </label></div>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-5">Frequently Asked Questions (In Floor Pex)</h2>
+      <div class="space-y-4"><div class='bg-slate-900 border border-slate-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>How many feet of PEX and how many manifold loops do I need for In Floor Pex?</h3><p class='text-sm text-slate-300 leading-relaxed'>At 12-inch on-center spacing (1.00 linear feet per sq. ft.), 1,000 sq. ft. requires 1,000 ft of floor grid plus 80 ft of manifold supply/return tails = 1,080 total linear feet, divided into 4 manifold loops of ~270 feet each.</p></div><div class='bg-slate-900 border border-slate-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>What size circulator pump GPM and head do I need for 1,000 sq ft of radiant heat?</h3><p class='text-sm text-slate-300 leading-relaxed'>Using the hydronic heat-transfer formula ($\text{GPM} = \text{BTU/hr} \div [500 \times \Delta T]$), delivering 30,000 BTU/hr across a 15°F temperature drop requires 4.0 GPM against ~13.8 feet of head pressure (a single Loop loses head in parallel, not multiplied by all 4 loops).</p></div><div class='bg-slate-900 border border-slate-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>How many gallons of water or glycol does 1,080 feet of 1/2-inch PEX hold?</h3><p class='text-sm text-slate-300 leading-relaxed'>Standard 1/2-inch PEX holds 0.92 gallons per 100 linear feet (5/8-inch PEX holds 1.34 gal/100 ft). Your 1,080 feet of tubing holds ~9.9 gallons, plus ~2.5 gallons for the boiler/header and expansion tank.</p></div></div>
+    </section>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500 px-4">
+    <p>© 2026 RadiantPEXIndex. Independent Hydronic Radiant Floor Heating & Loop Sizing Database. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const amzDomain = "www.amazon.com";
+    const amzTag = "salmanrevie04-20";
+
+    const areaSlider = document.getElementById('areaSlider');
+    const spaceSelect = document.getElementById('spaceSelect');
+    const pipeSelect = document.getElementById('pipeSelect');
+    const btuSlider = document.getElementById('btuSlider');
+    const areaVal = document.getElementById('areaVal');
+    const btuFactorVal = document.getElementById('btuFactorVal');
+    const pexFtOut = document.getElementById('pexFtOut');
+    const loopOut = document.getElementById('loopOut');
+    const gpmOut = document.getElementById('gpmOut');
+    const btuGalOut = document.getElementById('btuGalOut');
+    const radAdviceBanner = document.getElementById('radAdviceBanner');
+    const dynamicRadBtn = document.getElementById('dynamicRadBtn');
+
+    function recalculateRadiant() {
+      const sqft = parseInt(areaSlider.value, 10);
+      const spaceIn = parseInt(spaceSelect.value, 10);
+      const pipeParts = pipeSelect.value.split('|');
+      const maxLoopFt = parseInt(pipeParts[0], 10);
+      const galPer100 = parseFloat(pipeParts[1]);
+      const btuPerSqft = parseInt(btuSlider.value, 10);
+
+      areaVal.textContent = sqft.toLocaleString();
+      btuFactorVal.textContent = btuPerSqft;
+
+      const mult = 12.0 / spaceIn;
+      const gridFt = Math.round(sqft * mult);
+      const loopCount = Math.max(1, Math.ceil((gridFt * 1.08) / maxLoopFt));
+      const totalPexFt = Math.ceil((gridFt + (loopCount * 20)) / 10) * 10;
+      const avgLoopFt = Math.round(totalPexFt / loopCount);
+
+      const totalBtu = sqft * btuPerSqft;
+      const pumpGpm = Math.max(1.0, (totalBtu / (500.0 * 15.0))).toFixed(1);
+      const fluidGals = ((totalPexFt / 100.0) * galPer100).toFixed(1);
+
+      pexFtOut.textContent = totalPexFt.toLocaleString();
+      loopOut.textContent = `${loopCount}-Loop Manifold (~${avgLoopFt} ft/ea)`;
+      gpmOut.textContent = pumpGpm;
+      btuGalOut.textContent = `${Math.round(totalBtu / 1000)}k BTU/hr (~${fluidGals} Gal Fluid)`;
+
+      radAdviceBanner.innerHTML = `🔥 <strong>RPA Hydronic Spec:</strong> Order <strong>${totalPexFt.toLocaleString()} linear ft of Oxygen-Barrier PEX</strong>, a <strong>${loopCount}-Branch Stainless Flow-Meter Manifold</strong>, and an <strong>ECM Circulator Pump (${pumpGpm} GPM @ 15°F ΔT)</strong>.`;
+      dynamicRadBtn.href = `https://${amzDomain}/s?k=1/2+Inch+Oxygen+Barrier+PEX+Tubing+${loopCount}+Loop+Stainless+Radiant+Manifold+Taco+Pump&tag=${amzTag}`;
+    }
+
+    areaSlider.addEventListener('input', recalculateRadiant);
+    spaceSelect.addEventListener('change', recalculateRadiant);
+    pipeSelect.addEventListener('change', recalculateRadiant);
+    btuSlider.addEventListener('input', recalculateRadiant);
+    recalculateRadiant();
+
+    const checks = document.querySelectorAll('.rad-check');
+    const badge = document.getElementById('radBadge');
+    checks.forEach(ch => {
+      ch.addEventListener('change', () => {
+        const done = Array.from(checks).filter(c => c.checked).length;
+        badge.textContent = `${done} / ${checks.length} Completed`;
+      });
+    });
+  </script>
+</body>
+</html>
