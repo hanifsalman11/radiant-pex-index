@@ -394,5 +394,38 @@
     "btu": 30000,
     "gpm": 4.0,
     "date": "2026-11-14"
+  },
+  {
+    "project_name": "Pex Radiant Floor Heating  Square Feet",
+    "slug": "pex-radiant-floor-heating-square-feet-pex-loop-manifold-calculator",
+    "title": "Pex Radiant Floor Heating  Square Feet PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for Pex Radiant Floor Heating  Square Feet.",
+    "pex_ft": 1080,
+    "loops": 4,
+    "btu": 30000,
+    "gpm": 4.0,
+    "date": "2026-11-14"
+  },
+  {
+    "project_name": "Pex  Radiant Floor Heat",
+    "slug": "pex-radiant-floor-heat-pex-loop-manifold-calculator",
+    "title": "Pex  Radiant Floor Heat PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for Pex  Radiant Floor Heat.",
+    "pex_ft": 1080,
+    "loops": 4,
+    "btu": 30000,
+    "gpm": 4.0,
+    "date": "2026-11-14"
+  },
+  {
+    "project_name": "What  Pex  Radiant Floor Heat",
+    "slug": "what-pex-radiant-floor-heat-pex-loop-manifold-calculator",
+    "title": "What  Pex  Radiant Floor Heat PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for What  Pex  Radiant Floor Heat.",
+    "pex_ft": 1080,
+    "loops": 4,
+    "btu": 30000,
+    "gpm": 4.0,
+    "date": "2026-11-14"
   }
 ]
