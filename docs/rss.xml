@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/radiant-pex-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Radiant Heat Pex Tubing PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/radiant-pex-index/radiant-heat-pex-tubing-pex-loop-manifold-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/radiant-pex-index/radiant-heat-pex-tubing-pex-loop-manifold-calculator.html</guid>
+      <description>Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for Radiant Heat Pex Tubing.</description>
+    </item>
+    <item>
+      <title>Radiant Floor Heat Pex PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/radiant-pex-index/radiant-floor-heat-pex-pex-loop-manifold-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/radiant-pex-index/radiant-floor-heat-pex-pex-loop-manifold-calculator.html</guid>
+      <description>Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for Radiant Floor Heat Pex.</description>
+    </item>
+    <item>
+      <title>Heated Floor Pex PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/radiant-pex-index/heated-floor-pex-pex-loop-manifold-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/radiant-pex-index/heated-floor-pex-pex-loop-manifold-calculator.html</guid>
+      <description>Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for Heated Floor Pex.</description>
+    </item>
+    <item>
       <title>In Floor Pex PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/radiant-pex-index/in-floor-pex-pex-loop-manifold-calculator.html</link>
       <guid>https://hanifsalman11.github.io/radiant-pex-index/in-floor-pex-pex-loop-manifold-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/radiant-pex-index/taco-007e-f2-ecm-high-efficiency-hydronic-circulator-pump-pex-loop-manifold-calculator.html</link>
       <guid>https://hanifsalman11.github.io/radiant-pex-index/taco-007e-f2-ecm-high-efficiency-hydronic-circulator-pump-pex-loop-manifold-calculator.html</guid>
       <description>Calculate exact radiant PEX tubing length (1,300 linear ft), manifold circuits (5 loops @ 260 ft ea), heat load (36,000 BTU/hr), and circulator pump (4.8 GPM @ 13.4 ft head) for Taco 007e-F2 ECM High-Efficiency Hydronic Circulator Pump.</description>
-    </item>
-    <item>
-      <title>1,500 Sq Ft Whole-House Subfloor Aluminum Heat Transfer Plates PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/radiant-pex-index/1500-sq-ft-whole-house-subfloor-aluminum-heat-transfer-plates-pex-loop-manifold-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/radiant-pex-index/1500-sq-ft-whole-house-subfloor-aluminum-heat-transfer-plates-pex-loop-manifold-calculator.html</guid>
-      <description>Calculate exact radiant PEX tubing length (2,450 linear ft), manifold circuits (10 loops @ 245 ft ea), heat load (42,000 BTU/hr), and circulator pump (5.6 GPM @ 12.8 ft head) for 1,500 Sq Ft Whole-House Subfloor Aluminum Heat Transfer Plates.</description>
-    </item>
-    <item>
-      <title>1,000 Sq Ft Walkout Basement Concrete Slab Radiant PEX PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/radiant-pex-index/1000-sq-ft-walkout-basement-concrete-slab-radiant-pex-pex-loop-manifold-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/radiant-pex-index/1000-sq-ft-walkout-basement-concrete-slab-radiant-pex-pex-loop-manifold-calculator.html</guid>
-      <description>Calculate exact radiant PEX tubing length (1,450 linear ft), manifold circuits (6 loops @ 242 ft ea), heat load (25,000 BTU/hr), and circulator pump (3.3 GPM @ 12.7 ft head) for 1,000 Sq Ft Walkout Basement Concrete Slab Radiant PEX.</description>
-    </item>
-    <item>
-      <title>24x36 Three-Car Garage Slab (864 Sq Ft) Radiant PEX Setup PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/radiant-pex-index/24x36-three-car-garage-slab-864-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/radiant-pex-index/24x36-three-car-garage-slab-864-sq-ft-radiant-pex-setup-pex-loop-manifold-calculator.html</guid>
-      <description>Calculate exact radiant PEX tubing length (940 linear ft), manifold circuits (4 loops @ 235 ft ea), heat load (25,900 BTU/hr), and circulator pump (3.5 GPM @ 12.4 ft head) for 24x36 Three-Car Garage Slab (864 Sq Ft) Radiant PEX Setup.</description>
     </item>
   </channel>
 </rss>
