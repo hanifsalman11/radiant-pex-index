@@ -713,5 +713,16 @@
     "btu": 21600,
     "gpm": 2.9,
     "date": "2026-11-19"
+  },
+  {
+    "project_name": "24x30 Workshop Slab (720 Sq Ft) at 9-Inch Residential Spacing",
+    "slug": "24x30-workshop-slab-720-sq-ft-at-9-inch-residential-spacing-pex-loop-manifold-calculator",
+    "title": "24x30 Workshop Slab (720 Sq Ft) at 9-Inch Residential Spacing PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,040 linear ft), manifold circuits (4 loops @ 260 ft ea), heat load (21,600 BTU/hr), and circulator pump (2.9 GPM @ 13.4 ft head) for 24x30 Workshop Slab (720 Sq Ft) at 9-Inch Residential Spacing.",
+    "pex_ft": 1040,
+    "loops": 4,
+    "btu": 21600,
+    "gpm": 2.9,
+    "date": "2026-11-20"
   }
 ]
