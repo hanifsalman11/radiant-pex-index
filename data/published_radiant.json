@@ -779,5 +779,16 @@
     "btu": 45000,
     "gpm": 6.0,
     "date": "2026-11-22"
+  },
+  {
+    "project_name": "30x50 Metal Building Slab (1500 Sq Ft) at 9-Inch Residential Spacing",
+    "slug": "30x50-metal-building-slab-1500-sq-ft-at-9-inch-residential-spacing-pex-loop-manifold-calculator",
+    "title": "30x50 Metal Building Slab (1500 Sq Ft) at 9-Inch Residential Spacing PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (2,160 linear ft), manifold circuits (8 loops @ 270 ft ea), heat load (45,000 BTU/hr), and circulator pump (6.0 GPM @ 13.8 ft head) for 30x50 Metal Building Slab (1500 Sq Ft) at 9-Inch Residential Spacing.",
+    "pex_ft": 2160,
+    "loops": 8,
+    "btu": 45000,
+    "gpm": 6.0,
+    "date": "2026-11-23"
   }
 ]
