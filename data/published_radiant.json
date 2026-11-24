@@ -823,5 +823,16 @@
     "btu": 51800,
     "gpm": 6.9,
     "date": "2026-11-24"
+  },
+  {
+    "project_name": "36x48 Agricultural Shop Slab (1728 Sq Ft) at 9-Inch Residential Spacing",
+    "slug": "36x48-agricultural-shop-slab-1728-sq-ft-at-9-inch-residential-spacing-pex-loop-manifold-calculator",
+    "title": "36x48 Agricultural Shop Slab (1728 Sq Ft) at 9-Inch Residential Spacing PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (2,480 linear ft), manifold circuits (9 loops @ 276 ft ea), heat load (51,800 BTU/hr), and circulator pump (6.9 GPM @ 14.0 ft head) for 36x48 Agricultural Shop Slab (1728 Sq Ft) at 9-Inch Residential Spacing.",
+    "pex_ft": 2480,
+    "loops": 9,
+    "btu": 51800,
+    "gpm": 6.9,
+    "date": "2026-11-24"
   }
 ]
