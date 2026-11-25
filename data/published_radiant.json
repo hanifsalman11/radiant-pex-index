@@ -834,5 +834,16 @@
     "btu": 51800,
     "gpm": 6.9,
     "date": "2026-11-24"
+  },
+  {
+    "project_name": "36x48 Agricultural Shop Slab (1728 Sq Ft) at 12-Inch Slab-on-Grade Spacing",
+    "slug": "36x48-agricultural-shop-slab-1728-sq-ft-at-12-inch-slab-on-grade-spacing-pex-loop-manifold-calculator",
+    "title": "36x48 Agricultural Shop Slab (1728 Sq Ft) at 12-Inch Slab-on-Grade Spacing PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (1,870 linear ft), manifold circuits (7 loops @ 267 ft ea), heat load (51,800 BTU/hr), and circulator pump (6.9 GPM @ 13.6 ft head) for 36x48 Agricultural Shop Slab (1728 Sq Ft) at 12-Inch Slab-on-Grade Spacing.",
+    "pex_ft": 1870,
+    "loops": 7,
+    "btu": 51800,
+    "gpm": 6.9,
+    "date": "2026-11-25"
   }
 ]
