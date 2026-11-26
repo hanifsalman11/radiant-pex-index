@@ -911,5 +911,16 @@
     "btu": 30000,
     "gpm": 4.0,
     "date": "2026-11-26"
+  },
+  {
+    "project_name": "40x50 Commercial Garage Slab (2000 Sq Ft) at 9-Inch Residential Spacing",
+    "slug": "40x50-commercial-garage-slab-2000-sq-ft-at-9-inch-residential-spacing-pex-loop-manifold-calculator",
+    "title": "40x50 Commercial Garage Slab (2000 Sq Ft) at 9-Inch Residential Spacing PEX Loop, Manifold & Pump GPM Calculator (2026)",
+    "description": "Calculate exact radiant PEX tubing length (2,890 linear ft), manifold circuits (11 loops @ 263 ft ea), heat load (60,000 BTU/hr), and circulator pump (8.0 GPM @ 13.5 ft head) for 40x50 Commercial Garage Slab (2000 Sq Ft) at 9-Inch Residential Spacing.",
+    "pex_ft": 2890,
+    "loops": 11,
+    "btu": 60000,
+    "gpm": 8.0,
+    "date": "2026-11-26"
   }
 ]

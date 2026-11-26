@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/radiant-pex-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>40x50 Commercial Garage Slab (2000 Sq Ft) at 9-Inch Residential Spacing PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/radiant-pex-index/40x50-commercial-garage-slab-2000-sq-ft-at-9-inch-residential-spacing-pex-loop-manifold-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/radiant-pex-index/40x50-commercial-garage-slab-2000-sq-ft-at-9-inch-residential-spacing-pex-loop-manifold-calculator.html</guid>
+      <description>Calculate exact radiant PEX tubing length (2,890 linear ft), manifold circuits (11 loops @ 263 ft ea), heat load (60,000 BTU/hr), and circulator pump (8.0 GPM @ 13.5 ft head) for 40x50 Commercial Garage Slab (2000 Sq Ft) at 9-Inch Residential Spacing.</description>
+    </item>
+    <item>
       <title>Taco Circulator Pump Flanges PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/radiant-pex-index/taco-circulator-pump-flanges-pex-loop-manifold-calculator.html</link>
       <guid>https://hanifsalman11.github.io/radiant-pex-index/taco-circulator-pump-flanges-pex-loop-manifold-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/radiant-pex-index/schluter-ditra-heat-calculation-sheet-pex-loop-manifold-calculator.html</link>
       <guid>https://hanifsalman11.github.io/radiant-pex-index/schluter-ditra-heat-calculation-sheet-pex-loop-manifold-calculator.html</guid>
       <description>Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for Schluter Ditra Heat Calculation Sheet.</description>
-    </item>
-    <item>
-      <title>Schluter Ditra Heat PEX Loop, Manifold & Pump GPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/radiant-pex-index/schluter-ditra-heat-pex-loop-manifold-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/radiant-pex-index/schluter-ditra-heat-pex-loop-manifold-calculator.html</guid>
-      <description>Calculate exact radiant PEX tubing length (1,080 linear ft), manifold circuits (4 loops @ 270 ft ea), heat load (30,000 BTU/hr), and circulator pump (4.0 GPM @ 13.8 ft head) for Schluter Ditra Heat.</description>
     </item>
   </channel>
 </rss>
